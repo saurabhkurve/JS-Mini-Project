@@ -1,0 +1,24 @@
+body {
+    background-color: pink;
+}
+.container {
+    margin-top: 200px;
+    text-align: center;
+}
+#timerLabel {
+    margin: 100px 0px;
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.myButton {
+    width: 180px;
+    height: 50px;
+    border: none;
+    border-radius: 6px;
+    background-color: white;
+    font-size: 16px;
+}
+.title, .myButton {
+    font-family: 'Berkshire Swash', cursive;
+    color: rgb(121, 105, 70);
+}
